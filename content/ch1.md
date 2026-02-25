@@ -15,7 +15,3 @@
 
 
 
-
-```{literalinclude} xref:JB-workshop#cheat-sheet
-:start-at: "A good practice is to download the source file"
-```
