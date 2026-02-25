@@ -1,6 +1,6 @@
 # Chapter 1
 
-![](xref:FP#ch-language)
+
 
 ![](xref:spec#admonition)
 
