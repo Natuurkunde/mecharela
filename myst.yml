@@ -22,6 +22,7 @@ project:
     - file: content/cheat.md
     - file: content/4.md
     - file: content/5.md
+    - file: content/6.md
 
 site:
   template: book-theme
