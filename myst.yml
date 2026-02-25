@@ -9,8 +9,8 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   references:
-    FP: https://freekpols.github.io/Mechanica
-    TI: https://interactivetextbooks.tudelft.nl/nb1140/
+    FP: https://freekpols.github.io/Mechanica 
+    TI: https://interactivetextbooks.tudelft.nl/nb1140
 
   toc: 
     - file: content/index.md
