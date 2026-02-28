@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 415 326">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ed1c24;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 70%;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #0072bc;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 70%;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 6.14 6.14;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #231f20;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        stroke-width: 70%;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-13 {
+        font-size: 36px;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-16, .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-13, .cls-14, .cls-16 {
+        font-family: TimesNewRomanPS-ItalicMT, 'Times New Roman';
+        font-style: italic;
+      }
+
+      .cls-14 {
+        font-size: 36px;
+      }
+
+      .cls-15 {
+        font-family: Symbol, Symbol;
+        font-size: 36px;
+      }
+
+      .cls-16 {
+        font-size: 24px;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 5.9 5.9;
+      }
+
+      .cls-10 {
+        fill: #ed1c24;
+      }
+
+      .cls-11 {
+        fill: #0072bc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" y=".02" width="414.82" height="325.98"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-3" width="415" height="326"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-8">
+      <path class="cls-5" d="m62.36,121.91h3m-3,204.09V.02M0,263.64h368.5m-244.75-35.44c6.03,10.42,9.47,22.53,9.47,35.44"/>
+    </g>
+    <g class="cls-12">
+      <line class="cls-4" x1="71.5" y1="121.91" x2="301.78" y2="121.91"/>
+      <line class="cls-5" x1="304.85" y1="121.91" x2="307.85" y2="121.91"/>
+      <line class="cls-1" x1="62.36" y1="263.64" x2="289.51" y2="132.5"/>
+      <polyline class="cls-10" points="307.85 121.91 288.1 147.39 288.14 133.29 275.9 126.27 307.85 121.91"/>
+      <line class="cls-5" x1="306.95" y1="263.64" x2="306.95" y2="260.64"/>
+      <line class="cls-7" x1="306.95" y1="254.74" x2="306.95" y2="127.86"/>
+      <line class="cls-5" x1="306.95" y1="124.91" x2="306.95" y2="121.91"/>
+      <path class="cls-2" d="m62.36,171.44v92.2h92.21"/>
+      <polyline class="cls-11" points="62.36 150.25 50.17 180.1 62.36 173.02 74.56 180.1 62.36 150.25"/>
+      <polyline class="cls-11" points="175.75 263.64 145.9 275.83 152.98 263.64 145.9 251.44 175.75 263.64"/>
+      <path class="cls-2" d="m261.75,42.06c16.41,28.42,46.1,79.85,46.1,79.85l79.85-46.1"/>
+      <polyline class="cls-11" points="251.16 23.71 255.52 55.66 262.54 43.43 276.64 43.46 251.16 23.71"/>
+      <polyline class="cls-11" points="406.05 65.21 386.3 90.7 386.33 76.6 374.1 69.58 406.05 65.21"/>
+      <text class="cls-14" transform="translate(175.91 188.24) rotate(-30)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-15" transform="translate(134.26 250.59) scale(.97) skewX(-15)"><tspan x="0" y="0">θ</tspan></text>
+      <text class="cls-13" transform="translate(302.22 288.3)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-16" transform="translate(311.69 294.82)"><tspan x="0" y="0">x</tspan></text>
+      <text class="cls-13" transform="translate(164.12 300.64)"><tspan x="0" y="0">x</tspan></text>
+      <text class="cls-16" transform="translate(167.38 288.99)"><tspan x="0" y="0">^</tspan></text>
+      <text class="cls-13" transform="translate(400.24 99.86)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-16" transform="translate(403.49 88.21)"><tspan x="0" y="0">^</tspan></text>
+      <text class="cls-13" transform="translate(32.38 171.24)"><tspan x="0" y="0">y</tspan></text>
+      <text class="cls-16" transform="translate(35.64 159.59)"><tspan x="0" y="0">^</tspan></text>
+      <text class="cls-15" transform="translate(223.99 48.57) scale(.97) skewX(-15)"><tspan x="0" y="0">θ</tspan></text>
+      <text class="cls-16" transform="translate(232.46 29.75)"><tspan x="0" y="0">^</tspan></text>
+      <text class="cls-13" transform="translate(32.38 121.91)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-16" transform="translate(41.85 128.42)"><tspan x="0" y="0">y</tspan></text>
+      <text class="cls-13" transform="translate(312.29 147.92)"><tspan x="0" y="0">r</tspan></text>
+      <line class="cls-6" x1="314.62" y1="126.09" x2="325.97" y2="126.09"/>
+      <polyline class="cls-9" points="328.79 126.09 324.81 127.71 325.76 126.09 324.81 124.46 328.79 126.09"/>
+    </g>
+  </g>
+</svg>
