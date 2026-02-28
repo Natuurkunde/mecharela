@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 381 112">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+        font-size: 12px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        fill: #0d71ba;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #b9529f;
+      }
+
+      .cls-7 {
+        fill: #939598;
+      }
+
+      .cls-8 {
+        fill: #f15a26;
+      }
+
+      .cls-9 {
+        fill: #009247;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-6" cx="30" cy="6" r="5"/>
+    <circle class="cls-8" cx="50" cy="6" r="5"/>
+    <circle class="cls-8" cx="70" cy="6" r="5"/>
+    <circle class="cls-8" cx="90" cy="6" r="5"/>
+    <circle class="cls-8" cx="110" cy="6" r="5"/>
+    <circle class="cls-8" cx="130" cy="6" r="5"/>
+    <circle class="cls-7" cx="30" cy="26" r="5"/>
+    <circle class="cls-6" cx="50" cy="26" r="5"/>
+    <circle class="cls-8" cx="70" cy="26" r="5"/>
+    <circle class="cls-8" cx="90" cy="26" r="5"/>
+    <circle class="cls-8" cx="110" cy="26" r="5"/>
+    <circle class="cls-8" cx="130" cy="26" r="5"/>
+    <circle class="cls-7" cx="30" cy="46" r="5"/>
+    <circle class="cls-7" cx="50" cy="46" r="5"/>
+    <circle class="cls-6" cx="70" cy="46" r="5"/>
+    <circle class="cls-8" cx="90" cy="46" r="5"/>
+    <circle class="cls-8" cx="110" cy="46" r="5"/>
+    <circle class="cls-8" cx="130" cy="46" r="5"/>
+    <circle class="cls-7" cx="30" cy="66" r="5"/>
+    <circle class="cls-7" cx="50" cy="66" r="5"/>
+    <circle class="cls-7" cx="70" cy="66" r="5"/>
+    <circle class="cls-6" cx="90" cy="66" r="5"/>
+    <circle class="cls-8" cx="110" cy="66" r="5"/>
+    <circle class="cls-8" cx="130" cy="66" r="5"/>
+    <circle class="cls-7" cx="30" cy="86" r="5"/>
+    <circle class="cls-7" cx="50" cy="86" r="5"/>
+    <circle class="cls-7" cx="70" cy="86" r="5"/>
+    <circle class="cls-7" cx="90" cy="86" r="5"/>
+    <circle class="cls-6" cx="110" cy="86" r="5"/>
+    <circle class="cls-8" cx="130" cy="86" r="5"/>
+    <circle class="cls-7" cx="30" cy="106" r="5"/>
+    <circle class="cls-7" cx="50" cy="106" r="5"/>
+    <circle class="cls-7" cx="70" cy="106" r="5"/>
+    <circle class="cls-7" cx="90" cy="106" r="5"/>
+    <circle class="cls-7" cx="110" cy="106" r="5"/>
+    <circle class="cls-6" cx="130" cy="106" r="5"/>
+    <text class="cls-3" transform="translate(0 11.04)"><tspan x="0" y="0">(a)</tspan></text>
+    <circle class="cls-5" cx="185" cy="6" r="5"/>
+    <circle class="cls-8" cx="205" cy="6" r="5"/>
+    <circle class="cls-9" cx="225" cy="6" r="5"/>
+    <circle class="cls-5" cx="185" cy="26" r="5"/>
+    <circle class="cls-9" cx="205" cy="26" r="5"/>
+    <circle class="cls-8" cx="225" cy="26" r="5"/>
+    <circle class="cls-8" cx="185" cy="46" r="5"/>
+    <circle class="cls-5" cx="205" cy="46" r="5"/>
+    <circle class="cls-9" cx="225" cy="46" r="5"/>
+    <circle class="cls-8" cx="185" cy="66" r="5"/>
+    <circle class="cls-9" cx="205" cy="66" r="5"/>
+    <circle class="cls-5" cx="225" cy="66" r="5"/>
+    <circle class="cls-9" cx="185" cy="86" r="5"/>
+    <circle class="cls-5" cx="205" cy="86" r="5"/>
+    <circle class="cls-8" cx="225" cy="86" r="5"/>
+    <circle class="cls-9" cx="185" cy="106" r="5"/>
+    <circle class="cls-8" cx="205" cy="106" r="5"/>
+    <circle class="cls-5" cx="225" cy="106" r="5"/>
+    <text class="cls-3" transform="translate(155 11.04)"><tspan x="0" y="0">(</tspan><tspan class="cls-1" x="3.41" y="0">b</tspan><tspan class="cls-2" x="10.2" y="0">)</tspan></text>
+    <circle class="cls-7" cx="275" cy="106" r="6"/>
+    <circle class="cls-7" cx="325" cy="46" r="6"/>
+    <circle class="cls-7" cx="325" cy="86" r="6"/>
+    <circle class="cls-7" cx="315" cy="26" r="6"/>
+    <circle class="cls-7" cx="335" cy="26" r="6"/>
+    <circle class="cls-7" cx="305" cy="46" r="6"/>
+    <circle class="cls-7" cx="295" cy="66" r="6"/>
+    <circle class="cls-7" cx="315" cy="66" r="6"/>
+    <circle class="cls-7" cx="305" cy="86" r="6"/>
+    <circle class="cls-7" cx="295" cy="106" r="6"/>
+    <circle class="cls-7" cx="315" cy="106" r="6"/>
+    <circle class="cls-7" cx="345" cy="46" r="6"/>
+    <circle class="cls-7" cx="335" cy="66" r="6"/>
+    <circle class="cls-7" cx="355" cy="66" r="6"/>
+    <circle class="cls-7" cx="345" cy="86" r="6"/>
+    <circle class="cls-7" cx="335" cy="106" r="6"/>
+    <circle class="cls-7" cx="355" cy="106" r="6"/>
+    <circle class="cls-7" cx="365" cy="86" r="6"/>
+    <circle class="cls-7" cx="375" cy="106" r="6"/>
+    <circle class="cls-7" cx="285" cy="86" r="6"/>
+    <circle class="cls-7" cx="325" cy="6" r="6"/>
+    <text class="cls-3" transform="translate(250 11.04)"><tspan x="0" y="0">(c)</tspan></text>
+    <text class="cls-4" transform="translate(322.43 8.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(312.44 28.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(332.43 28.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(302.43 48.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(292.44 68.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(312.43 68.94)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-4" transform="translate(282.43 88.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(272.44 108.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(292.43 108.94)"><tspan x="0" y="0">5</tspan></text>
+    <text class="cls-4" transform="translate(342.43 48.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(332.44 68.94)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-4" transform="translate(352.43 68.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(322.43 88.94)"><tspan x="0" y="0">6</tspan></text>
+    <text class="cls-4" transform="translate(309.87 108.94)"><tspan x="0" y="0">10</tspan></text>
+    <text class="cls-4" transform="translate(362.43 88.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(352.44 108.94)"><tspan x="0" y="0">5</tspan></text>
+    <text class="cls-4" transform="translate(372.43 108.94)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-4" transform="translate(322.43 48.94)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-4" transform="translate(302.43 88.94)"><tspan x="0" y="0">4</tspan></text>
+    <text class="cls-4" transform="translate(342.43 88.94)"><tspan x="0" y="0">4</tspan></text>
+    <text class="cls-4" transform="translate(329.87 108.94)"><tspan x="0" y="0">10</tspan></text>
+  </g>
+</svg>

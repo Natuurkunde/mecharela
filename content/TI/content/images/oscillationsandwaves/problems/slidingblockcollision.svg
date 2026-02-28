@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #3e5ba9;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        stroke: #ad1a27;
+      }
+
+      .cls-3 {
+        stroke: #92711f;
+        stroke-width: .63px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: MyriadPro-It, 'Myriad Pro';
+        font-style: italic;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #ad1a27;
+      }
+
+      .cls-6, .cls-10 {
+        fill: #231f20;
+      }
+
+      .cls-7, .cls-9 {
+        fill: #3e5ba9;
+      }
+
+      .cls-4 {
+        stroke: #231f20;
+        stroke-linejoin: round;
+      }
+
+      .cls-8, .cls-9 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-11 {
+        fill: #bd912d;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-4" points="80 42 78.12 49 74.37 35 70.62 49 66.87 35 63.12 49 59.37 35 55.62 49 51.87 35 50 42 48.12 49 44.37 35 40.62 49 36.87 35 33.12 49 29.37 35 25.62 49 21.87 35 20 42"/>
+  <text class="cls-7" transform="translate(80.86 43.52)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-9" transform="translate(90.55 47.52) scale(.58)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-6" transform="translate(47.11 30.52)"><tspan x="0" y="0">k</tspan></text>
+  <g>
+    <line class="cls-4" x1="92.2" y1="27" x2="82.8" y2="27"/>
+    <polygon class="cls-10" points="97.5 27 90.04 23.95 91.81 27 90.04 30.05 97.5 27"/>
+    <polygon class="cls-10" points="77.5 27 84.96 23.95 83.19 27 84.96 30.05 77.5 27"/>
+  </g>
+  <rect class="cls-11" x="20" y="50" width="200" height="20"/>
+  <text class="cls-6" transform="translate(83.44 21)"><tspan x="0" y="0">ω</tspan></text>
+  <rect class="cls-11" y="0" width="20" height="70"/>
+  <polyline class="cls-3" points="220 50 20 50 20 0"/>
+  <rect class="cls-1" x="80" y="34.5" width="15" height="15"/>
+  <g>
+    <line class="cls-4" x1="182.8" y1="27" x2="197.5" y2="27"/>
+    <polygon class="cls-10" points="177.5 27 184.96 30.05 183.19 27 184.96 23.95 177.5 27"/>
+  </g>
+  <text class="cls-6" transform="translate(183.44 21)"><tspan x="0" y="0">v</tspan></text>
+  <rect class="cls-2" x="180" y="34.5" width="15" height="15"/>
+  <text class="cls-5" transform="translate(180.86 43.52)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-8" transform="translate(190.55 47.52) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+</svg>

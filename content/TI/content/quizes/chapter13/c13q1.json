@@ -1,0 +1,28 @@
+[
+     {
+         "question": "Which of the following is false?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The entropy inside an isolated box can never decrease.",
+                 "correct": false,
+                 "feedback": "This is true."
+             },
+             {
+                 "answer": "A mixture of particles in an isolated box can never spontaneously separate.",
+                 "correct": true,
+                 "feedback": "Correct. This is false."
+             },
+             {
+                 "answer": "The thermodynamic equilibrium of a system inside an isolated box corresponds to the global maximum of the boxes' entropy.",
+                 "correct": false,
+                 "feedback": "This is true."
+             },
+             {
+                 "answer": "You can never convert all of the energy stored in a temperature difference between two reservoirs to mechanical work.",
+                 "correct": false,
+                 "feedback": "This is true."
+             }
+         ]
+     }
+]

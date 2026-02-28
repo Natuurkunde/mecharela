@@ -1,0 +1,23 @@
+[
+     {
+         "question": "The figure (see image below) shows the power delivered to a baseball while in contact with the bat. Which of the following is greatest at the peak of the curve?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The kinetic energy of the ball",
+                 "correct": false,
+                 "feedback": "This is when the curve hits zero."
+             },
+             {
+                 "answer": "The rate at which the bat supplies energy to the ball",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "The total work the bat has done on the ball",
+                 "correct": false,
+                 "feedback": "This is the integral over the curve."
+             }
+         ]
+     }
+]

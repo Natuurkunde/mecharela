@@ -1,0 +1,23 @@
+[
+     {
+         "question": "For a central force, which of the following is true? <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\\mathbf{F}(r) = \\mathit{F}(r) \\mathbf{\\hat{r}}$",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The only possible trajectories are circles and ellipses around the origin. Which trajectory depends on initial conditions.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The only possible trajectories are confined to a sphere centered at the origin. Which sphere depends on initial conditions.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The only possible trajectories are confined to a plane through the origin. Which plane depends on initial conditions.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

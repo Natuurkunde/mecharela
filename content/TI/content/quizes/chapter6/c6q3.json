@@ -1,0 +1,23 @@
+[
+     {
+         "question": "For a long linear object (pen, ruler, …), which is larger? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Moment of inertia around the center",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Moment of inertia around the end",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Neither (they're equal)",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

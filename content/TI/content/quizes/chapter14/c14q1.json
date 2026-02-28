@@ -1,0 +1,38 @@
+[
+     {
+         "question": "Which three components are equal for two systems in thermodynamic equilibrium?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Temperature, volume, number of particles",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Entropy, temperature, pressure",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Entropy, temperature, number of particles",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Temperature, pressure, number of particles",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Temperature, pressure, chemical potential",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Entropy, volume, chemical potential",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

@@ -1,0 +1,28 @@
+[
+     {
+         "question": "The ideal gas law reads: $p V = n R T = N k_B T$. <br /> The more realistic Van der Waals law modifies this to: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$(p + \\frac{an^2}{V^2})(V − nb) = n R T = N k_B T$. <br />What is the physical meaning of the constants $a$ and $b$?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$a$ is the interaction strength, $b$ the volume of the molecules.",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$a$ is the volume of the molecules, $b$ the interaction strength.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$a$ is the rest energy per unit volume, $b$ the interaction strength.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$a$ is the hydrostatic pressure, $b$ the volume of the molecules.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

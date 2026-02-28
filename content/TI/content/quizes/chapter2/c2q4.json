@@ -1,0 +1,23 @@
+[
+     {
+         "question": "If you drop an object, it accelerates due to gravity ($\\bm{F}_\\mathrm{g} = m\\bm{g}$), but also feels an increasing drag force as it speeds up ($\\bm{F}_\\mathrm{drag} = - \\zeta \\bm{v}$). <br />What will happen over time?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The object will reach a terminal velocity $v = \\frac{mg}{\\zeta}$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "The object will continue to accelerate with $a = \\frac{g}{\\zeta}$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The object will start decelerating after a time $t = \\frac{g}{\\zeta}$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

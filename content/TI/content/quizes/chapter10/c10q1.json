@@ -1,0 +1,28 @@
+[
+     {
+         "question": "How do the (angular) frequency $\\omega(\\omega = 2\\pi f = 2\\pi/T)$ the wave number $k (k = 2\\pi/\\lambda)$ and the wave speed $v$ relate?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$v = \\omega k$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$v = k/\\omega$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$v = \\omega/k$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$v = \\frac{1}{\\omega k}$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

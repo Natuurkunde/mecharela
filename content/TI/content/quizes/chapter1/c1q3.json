@@ -1,0 +1,18 @@
+[
+     {
+         "question": "We quickly pull on the free-hanging thread at the bottom of the mass. Which thread will break? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Upper thread",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Lower thread",
+                 "correct": true,
+                 "feedback": "Correct. $ma = mg + T_2 − T_1 \\Rightarrow m(a−g) = T_2 − T_1$. Force balance given. If $a<g$, then $T_2<T_1$, and the top thread will break first. If $a>g$, then the bottom thread will break first."
+             }
+         ]
+     }
+]

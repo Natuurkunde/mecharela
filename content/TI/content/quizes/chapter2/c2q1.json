@@ -1,0 +1,23 @@
+[
+     {
+         "question": "What is the effective spring constant of two coupled springs? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$k = k_1 + k_2$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$k = \\frac{1}{2}(k_1 + k_2)$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$k = \\frac{1}{1/k_1 + 1/k_2}$",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

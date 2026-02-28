@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 113.75">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #2e3192;
+      }
+
+      .cls-4 {
+        stroke: #be1e2d;
+      }
+
+      .cls-5 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-7 {
+        fill: #2e3192;
+      }
+
+      .cls-7, .cls-6, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        fill: #be1e2d;
+      }
+
+      .cls-9 {
+        fill: #9e1f63;
+      }
+
+      .cls-10 {
+        fill: #006838;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" y1="55.5" x2="150" y2="55.5"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="5"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="15"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="25"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="35"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="45"/>
+  <circle class="cls-4" cx="75" cy="55.5" r="55"/>
+  <circle class="cls-8" cx="75" cy="55.5" r="2.5"/>
+  <circle class="cls-10" cx="135" cy="55.5" r="2.5"/>
+  <line class="cls-1" x1="170" y1="55.5" x2="320" y2="55.5"/>
+  <circle class="cls-3" cx="270" cy="55.5" r="5"/>
+  <circle class="cls-3" cx="265" cy="55.5" r="15"/>
+  <circle class="cls-3" cx="260" cy="55.5" r="25"/>
+  <circle class="cls-3" cx="255" cy="55.5" r="35"/>
+  <circle class="cls-3" cx="250" cy="55.5" r="45"/>
+  <circle class="cls-7" cx="270" cy="55.5" r="2.5"/>
+  <circle class="cls-10" cx="305" cy="55.5" r="2.5"/>
+  <circle class="cls-3" cx="245" cy="55.5" r="55"/>
+  <g>
+    <line class="cls-2" x1="120.5" y1="110.5" x2="129.5" y2="110.5"/>
+    <rect class="cls-6" x="120" y="107.25" width="1" height="6.5"/>
+    <rect class="cls-6" x="129" y="107.25" width="1" height="6.5"/>
+  </g>
+  <text class="cls-5" transform="translate(122.17 106.5)"><tspan x="0" y="0">λ</tspan></text>
+  <g>
+    <line class="cls-2" x1="295.5" y1="110.5" x2="299.5" y2="110.5"/>
+    <rect class="cls-6" x="295" y="107.25" width="1" height="6.5"/>
+    <rect class="cls-6" x="299" y="107.25" width="1" height="6.5"/>
+  </g>
+  <text class="cls-5" transform="translate(294.67 106.5)"><tspan x="0" y="0">λ</tspan></text>
+  <circle class="cls-9" cx="15" cy="55.5" r="2.5"/>
+  <circle class="cls-9" cx="185" cy="55.5" r="2.5"/>
+  <g>
+    <line class="cls-2" x1="20.5" y1="110.5" x2="29.5" y2="110.5"/>
+    <rect class="cls-6" x="20" y="107.25" width="1" height="6.5"/>
+    <rect class="cls-6" x="29" y="107.25" width="1" height="6.5"/>
+  </g>
+  <text class="cls-5" transform="translate(22.17 106.5)"><tspan x="0" y="0">λ</tspan></text>
+  <g>
+    <line class="cls-2" x1="190.5" y1="110.5" x2="204.5" y2="110.5"/>
+    <rect class="cls-6" x="190" y="107.25" width="1" height="6.5"/>
+    <rect class="cls-6" x="204" y="107.25" width="1" height="6.5"/>
+  </g>
+  <text class="cls-5" transform="translate(194.67 106.5)"><tspan x="0" y="0">λ</tspan></text>
+  <text class="cls-5" transform="translate(0 10.54)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-5" transform="translate(170 10.54)"><tspan x="0" y="0">b</tspan></text>
+</svg>

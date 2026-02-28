@@ -1,0 +1,23 @@
+[
+     {
+         "question": "An 80-ton airplane stands on the tarmac. The airplane is 50 meters long; the main wheels are 27 meters from the nose, and the nose wheel is 3 meters from the nose. How large is the force on the nose wheel?<br /> (We assume the mass of the plane is distributed uniformly.)",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "65400 N",
+                 "correct": true,
+                 "feedback": "Correct. Balance forces: $F_\\mathrm{z} = F_\\mathrm{n, nose} + F_\\mathrm{n, wheels}$. \n Balance torques: $F_\\mathrm{z} r_\\mathrm{z} = F_\\mathrm{nose} r_\\mathrm{nose} \n \\Rightarrow 80,000 \\cdot g \\cdot 2 = F_\\mathrm{nose} \\cdot 24 \n \\Rightarrow F_\\mathrm{nose} = 1 569 600 / 24 = 65400\\;\\mathrm{N}$."
+             },
+             {
+                 "answer": "94176 N",
+                 "correct": false,
+                 "feedback": "This answer is just dead wrong."
+             },
+             {
+                 "answer": "719400 N",
+                 "correct": false,
+                 "feedback": "This answer is the force on the main wheels."
+             }
+         ]
+     }
+]

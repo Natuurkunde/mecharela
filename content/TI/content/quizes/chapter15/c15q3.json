@@ -1,0 +1,23 @@
+[
+     {
+         "question": "Which free energy would you use to describe a process at constant temperature and volume?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Helmholz. $F = U-TS$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Gibbs. $G = U-TS+pV$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Enthalpy. $H = U+pV$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

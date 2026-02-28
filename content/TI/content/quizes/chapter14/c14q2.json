@@ -1,0 +1,23 @@
+[
+     {
+         "question": "During an adiabatic expansion (no heat flow) of an ideal gas, its temperature:",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Increases",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Decreases",
+                 "correct": true,
+                 "feedback": "Correct. There is work done by the gas, which for $Q = 0$ can only happen if the internal energy (and thus the temperature) decreases."
+             },
+             {
+                 "answer": "Stays the same",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

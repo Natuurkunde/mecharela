@@ -1,0 +1,23 @@
+[
+     {
+         "question": "Like all heat engines, the Stirling engine extracts heat from a hot reservoir and converts it to work. What happens if we replace the hot water with ice?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The engine will quickly slow down and stop.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The engine will keep running until it has molten the ice.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The engine will run in reverse.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

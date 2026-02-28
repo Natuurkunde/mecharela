@@ -1,0 +1,23 @@
+[
+     {
+         "question": "You stand on a road facing a truck coming towards you. You intend to stop the truck by throwing a tennis ball against it. The tennis ball bounces elastically off the truck. With what speed does it hit you on return?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Same speed as the speed you threw it",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Speed at which you threw it plus that of the truck",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Speed at which you threw it plus twice that of the truck",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

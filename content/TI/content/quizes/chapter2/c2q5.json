@@ -1,0 +1,23 @@
+[
+     {
+         "question": "When is the maximal frictional force larger? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Upright case",
+                 "correct": true,
+                 "feedback": "Correct. $F_\\mathrm{f} = \\mu_\\mathrm{k} F_\\mathrm{n}$"
+             },
+             {
+                 "answer": "Slanted case",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Doesn't matter",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

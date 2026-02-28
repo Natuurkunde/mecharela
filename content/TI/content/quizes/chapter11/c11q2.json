@@ -1,0 +1,28 @@
+[
+     {
+         "question": "In how many linearly independent ways can you deform a three-dimensional solid? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Two",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Three",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Four",
+                 "correct": true,
+                 "feedback": "Correct. One bulk deformation, three shear ones."
+             },
+             {
+                 "answer": "Nine",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

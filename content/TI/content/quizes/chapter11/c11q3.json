@@ -1,0 +1,28 @@
+[
+     {
+         "question": "Do fluids have bulk and shear moduli?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Yes, both.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "They have a bulk modulus but no shear modulus.",
+                 "correct": true,
+                 "feedback": "Correct. A fluid resists compression but cannot resist shear."
+             },
+             {
+                 "answer": "They have a shear modulus but no bulk modulus.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "No.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

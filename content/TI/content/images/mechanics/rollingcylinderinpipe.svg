@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 107">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        font-family: Times-Italic, Times;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-size: 12px;
+        font-style: italic;
+      }
+
+      .cls-6, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: MyriadPro-It, 'Myriad Pro';
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 5 5;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-8, .cls-10 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-11 {
+        fill: #0d71ba;
+      }
+
+      .cls-11, .cls-10, .cls-9 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-11" cx="167.95" cy="41.5" r="25"/>
+  <path class="cls-1" d="m204.5,4c0,56.06-45.44,101.5-101.5,101.5S1.5,60.06,1.5,4"/>
+  <g>
+    <line class="cls-3" x1="103" y1="4" x2="103" y2="6.5"/>
+    <line class="cls-2" x1="103" y1="11.5" x2="103" y2="99"/>
+    <line class="cls-3" x1="103" y1="101.5" x2="103" y2="104"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="103" y1="4" x2="105.17" y2="5.25"/>
+    <line class="cls-2" x1="109.5" y1="7.75" x2="185.27" y2="51.5"/>
+    <line class="cls-3" x1="187.44" y1="52.75" x2="189.6" y2="54"/>
+  </g>
+  <path class="cls-4" d="m128.99,19c-5.19,8.97-14.88,15-25.99,15"/>
+  <g>
+    <path class="cls-5" d="m157.12,35.25c2.16-3.74,6.2-6.25,10.83-6.25,6.9,0,12.5,5.6,12.5,12.5,0,5.69-3.8,10.49-9,12"/>
+    <polygon class="cls-9" points="167.95 54 172.54 51.2 171.7 53.4 173.19 55.22 167.95 54"/>
+  </g>
+  <circle class="cls-10" cx="167.95" cy="41.5" r="4"/>
+  <circle class="cls-10" cx="103" cy="4" r="4"/>
+  <line class="cls-5" x1="167.95" y1="41.5" x2="167.95" y2="66.5"/>
+  <text class="cls-7" transform="translate(160.73 57.74)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-8" transform="translate(91.9 62.62)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-8" transform="translate(115.99 43.16)"><tspan x="0" y="0">θ</tspan></text>
+  <text class="cls-6" transform="translate(182.69 41.5)"><tspan x="0" y="0">φ</tspan></text>
+</svg>

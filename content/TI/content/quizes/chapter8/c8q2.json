@@ -1,0 +1,23 @@
+[
+     {
+         "question": "Which force is primarily responsible for flipping the tippie-top upside down? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Gravity",
+                 "correct": false,
+                 "feedback": "Center of mass close to center of curvature, so only a small torque."
+             },
+             {
+                 "answer": " Friction with the table",
+                 "correct": true,
+                 "feedback": "Correct. Large torque."
+             },
+             {
+                 "answer": "Drag with the air",
+                 "correct": false,
+                 "feedback": "Torque in wrong direction for flipping (can only slow the top down) and much smaller force than friction."
+             }
+         ]
+     }
+]

@@ -1,0 +1,28 @@
+[
+     {
+         "question": "When does the Carnot engine extract/release heat? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Extract from $Q_h$ in step 1, release to $Q_c$ in step 3",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Extract from $Q_h$ in step 2, release to $Q_c$ in step 4",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Extract from $Q_h$ in step 3, release to $Q_c$ in step 1",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Extract from $Q_h$ in step 4, release to $Q_c$ in step 2",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

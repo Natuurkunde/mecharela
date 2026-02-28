@@ -1,0 +1,28 @@
+[
+     {
+         "question": "Which of the four stress-strain rate graphs represents the properties of toothpaste?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Bingham plastic",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Shear thinning",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Newtonian",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Shear thickening",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

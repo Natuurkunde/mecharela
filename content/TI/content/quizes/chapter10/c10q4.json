@@ -1,0 +1,28 @@
+[
+     {
+         "question": "What happens when these two wave packets meet? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "They cancel each other out.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "They reflect each other",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "They pass through each other.",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "They merge into a standing packet.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

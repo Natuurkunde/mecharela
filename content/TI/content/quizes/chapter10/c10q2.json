@@ -1,0 +1,28 @@
+[
+     {
+         "question": "What is the physical meaning of the phase?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "None: it's a dimensionless integration constant.",
+                 "correct": false,
+                 "feedback": "It is a dimensionless integration constant, but not meaningless."
+             },
+             {
+                 "answer": "It determines the wave's initial position.",
+                 "correct": false,
+                 "feedback": "There's no such thing as a wave's position."
+             },
+             {
+                 "answer": "It determines the wave's initial velocity.",
+                 "correct": false,
+                 "feedback": "The wave's velocity is independent of its phase."
+             },
+             {
+                 "answer": "It determines where the wave is in its cycle.",
+                 "correct": true,
+                 "feedback": "Correct. The wave goes through the cycle repeatedly,but has to start somewhere at $x = 0, t = 0$ - that's the phase."
+             }
+         ]
+     }
+]

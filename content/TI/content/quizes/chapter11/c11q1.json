@@ -1,0 +1,28 @@
+[
+     {
+         "question": "We put some water in a closed container, then start pumping out the air. What happens? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The water boils.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The water freezes.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The water evaporates and forms a white cloud.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The water boils and then freezes.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

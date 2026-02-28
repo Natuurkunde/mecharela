@@ -1,0 +1,28 @@
+[
+     {
+         "question": "See image below. <br />- Ball: 1 kg.<br />- Rail + carts: 4 kg.<br />- Rail length: 1 m.<br />We roll the ball. Does the rail move? If so, how far?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The rail won't move",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "20 cm",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "25 cm",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "100 cm",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

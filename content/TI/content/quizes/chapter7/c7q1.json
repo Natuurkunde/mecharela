@@ -1,0 +1,28 @@
+[
+     {
+         "question": "As we drop the wineglass, what will happen? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The glass falls to the ground rapidly and breaks.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The glass falls, but friction from the wire slows it down, so it lands fairly softly.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The matchbox swings on the peg with increasing frequency, causing the glass to also oscillate while it falls. It lands softly.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The matchbox loops around the peg, preventing the glass from reaching the floor.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

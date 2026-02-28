@@ -1,0 +1,23 @@
+[
+     {
+         "question": "We pull on the wire (see image below). What happens with the spool?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "It moves to the right.",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "It moves to the left.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It stays in position.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

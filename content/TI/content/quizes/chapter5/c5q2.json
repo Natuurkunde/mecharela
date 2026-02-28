@@ -1,0 +1,28 @@
+[
+     {
+         "question": "The bullet of mass m hits the block of mass $M$ at unknown speed $v$, then gets stuck. The bullet + block system reaches a height $h$. What was $v$? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$\\sqrt{2gh}$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\sqrt{2Mgh/m}$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{m}{m+M} \\cdot \\sqrt{2gh}$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\left( 1 + \\frac{M}{m} \\right) \\cdot \\sqrt{2gh}$",
+                 "correct": true,
+                 "feedback": "Correct"
+             }
+         ]
+     }
+]

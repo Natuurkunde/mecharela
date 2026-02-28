@@ -1,0 +1,23 @@
+[
+     {
+         "question": "You put marbles at the two blue dots and let go. Which of these is false? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "They perform oscillations around their respective stable points for all eternity.",
+                 "correct": false,
+                 "feedback": "This is true."
+             },
+             {
+                 "answer": "They collide after a while.",
+                 "correct": true,
+                 "feedback": "Correct. This is false."
+             },
+             {
+                 "answer": "Their turning points are at equal height.",
+                 "correct": false,
+                 "feedback": "This is true."
+             }
+         ]
+     }
+]

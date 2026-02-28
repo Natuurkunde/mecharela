@@ -1,0 +1,23 @@
+[
+     {
+         "question": "Which is larger? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Moment of inertia of a hollow cylinder of mass $M$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Moment of inertia of a solid cylinder of mass $M$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Neither (they're equal)",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

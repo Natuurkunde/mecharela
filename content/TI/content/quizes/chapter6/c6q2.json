@@ -1,0 +1,28 @@
+[
+     {
+         "question": "A roller coaster car of mass $m$ slides down a frictionless track, then enters a loop of radius $R$. What is the minimum initial height $h$ for which the car never looses contact with the loop? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$h_{min} = R$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$h_{min} = 2R$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$h_{min} = (\\frac{5}{2})R$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$h_{min} = 3R$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

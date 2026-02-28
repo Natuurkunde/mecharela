@@ -1,0 +1,28 @@
+[
+     {
+         "question": "How far can we make the ping-pong ball fly with a strong air flow through the funnel? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Not at all.",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "About 1 m (less than you can easily throw it)",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "About 5 m (roughly the same as when you’d throw it)",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Across the room (much further than you can throw it)",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

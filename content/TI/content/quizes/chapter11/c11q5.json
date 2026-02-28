@@ -1,0 +1,28 @@
+[
+     {
+         "question": "Suppose a car stands on the large piston. Car plus piston have a combined mass of 3000 kg. The large piston has a radius of 1.50 m, the small one a radius of 15 cm. How far down do you have to push the small piston to raise the car by 10 cm?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "1.0 cm",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "10 cm",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "1.0 m",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "10 m",
+                 "correct": true,
+                 "feedback": "Correct. Pascal's principle gives $\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$, so $F_1 = F_2 \\frac{A_1}{A_2} = m g (0.15)^2 \\pi / (1.5^2 \\pi) = m g / 100$. The work done must be equal, so $F_2 h_2 = F_1 h_1$, and we get $m g \\cdot (10$ cm$) = m g h_1 / 100$, or $h_1 = 100 * (10$ cm$) = 10$ m."
+             }
+         ]
+     }
+]

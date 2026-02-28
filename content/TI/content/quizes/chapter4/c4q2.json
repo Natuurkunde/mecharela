@@ -1,0 +1,23 @@
+[
+     {
+         "question": "A student (65 kg) climbs the hill shown in the the image below. Find the total amount of work she needs to do against gravity ($F_\\mathrm{g} = mg$).",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "1074 kJ",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "2303 kJ",
+                 "correct": false,
+                 "feedback": "Check your goniometry."
+             },
+             {
+                 "answer": "2551 kJ",
+                 "correct": false,
+                 "feedback": "Gravity points down."
+             }
+         ]
+     }
+]

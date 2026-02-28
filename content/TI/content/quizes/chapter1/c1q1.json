@@ -1,0 +1,23 @@
+[
+     {
+         "question": "Which of these is not a complete set of units?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "centimeter - gram - second - degree Celsius - Coulomb",
+                 "correct": false,
+                 "feedback": "centimeter $L$ - gram $M$ - second $t$ - degree Celsius $T$ - Coulomb $Q = I*t$"
+             },
+             {
+                 "answer": "kilogram - Newton - Coulomb - Kelvin - Joule",
+                 "correct": false,
+                 "feedback": "kilogram $M$ - Newton $F = M*L*t^{-2}$ - Coulomb $Q = I*t$ - Kelvin $T$ - Joule $E = F*L$. Meters from J/N, time from $\\sqrt{\\frac{kg*J/N}{N}} = \\frac{\\sqrt{kg*J}}{N}$"
+             },
+             {
+                 "answer": "meter - Joule - Amp\u00E8re - Pascal - Kelvin",
+                 "correct": true,
+                 "feedback": "Correct. meter $L$ - Joule $E = F*L$ - Ampère $I$ - Pascal $p = F*L^{-2}$ - Kelvin $T$ is not a complete set of units."
+             }
+         ]
+     }
+]

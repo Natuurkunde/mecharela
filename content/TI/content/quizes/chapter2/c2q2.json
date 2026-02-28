@@ -1,0 +1,28 @@
+[
+     {
+         "question": "How does the frictional force depend on the contact area?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "It doesn't",
+                 "correct": true,
+                 "feedback": "Correct. Friction (static): $F_f \\leq \\mu_s F_n$. Friction (dynamic): $F_f = \\mu_k F_n$."
+             },
+             {
+                 "answer": "It scales linearly with the contact area.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It scales inversely with the contact area.",
+                 "correct": false,
+                 "feedback": ""
+             },
+                        {
+                 "answer": "There's no way to tell - it depends on the surface.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

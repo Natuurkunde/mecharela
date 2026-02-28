@@ -1,0 +1,23 @@
+[
+     {
+         "question": "For a given damped oscillator, we have<br />&emsp;$m \\ddot{x} = -kx - \\gamma \\dot{x},$<br/ >with $m = 1.0$ kg, $k = 10.0$ N/m, and $\\gamma = 10.0$ kg/s.<br/ >Which force dominates the motion?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The spring force",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The damping force",
+                 "correct": true,
+                 "feedback": "Correct. $\\omega_0 = \\sqrt{\\frac{k}{m}}, \\zeta = \\frac{\\gamma}{2\\sqrt{mk}}$"
+             },
+             {
+                 "answer": "Both forces are equally important",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

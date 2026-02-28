@@ -1,0 +1,23 @@
+[
+     {
+         "question": "We couple two pendulums with a weak spring, then give the left one an initial amplitude A. What happens?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The left pendulum oscillates, the right pendulum remains stationary",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The right pendulum starts oscillating at increasing amplitude while the left one's amplitude decreases, until they both oscillate with amplitude $\\frac{1}{2}A$.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The right pendulum starts oscillating at increasing amplitude while the left one's amplitude decreases, until the right one oscillates with amplitude $A$ and the left one is stationary.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

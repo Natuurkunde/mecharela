@@ -1,0 +1,28 @@
+[
+     {
+         "question": "We spin up the gyroscope, then push on the axis. What happens?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The axis moves in the direction we push.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The axis moves in the opposite direction of the push.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The axis moves in a direction perpendicular to the push.",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "We cannot push hard enough to move the axis.",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

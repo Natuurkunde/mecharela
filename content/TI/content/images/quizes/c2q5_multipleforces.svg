@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 362.33 145">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 2 2;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        stroke-width: 1px;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-6, .cls-8 {
+        stroke: #010101;
+      }
+
+      .cls-7 {
+        stroke: #92278f;
+      }
+
+      .cls-10 {
+        font-family: GillSans-Italic, 'Gill Sans';
+        font-size: 14px;
+        font-style: italic;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #535454;
+      }
+
+      .cls-9 {
+        stroke: #3e58a8;
+        stroke-width: 1.67px;
+      }
+
+      .cls-2 {
+        fill: #aa7a43;
+      }
+
+      .cls-3 {
+        fill: #92278f;
+      }
+
+      .cls-4 {
+        fill: #818885;
+      }
+
+      .cls-5 {
+        fill: #010101;
+      }
+
+      .cls-11 {
+        font-family: GillSans-Light, 'Gill Sans';
+        font-size: 9.11px;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" width="168.67" height="145"/>
+    <rect class="cls-4" x="1" y="80" width="166.67" height="16.67"/>
+    <rect class="cls-2" x="59.33" y="46.67" width="50" height="33.33"/>
+    <rect class="cls-9" x="59.33" y="46.67" width="50" height="33.33"/>
+    <polyline class="cls-8" points="84.32 126.2 84.32 125.7 84 62.33"/>
+    <polygon class="cls-5" points="82.11 124.61 84.33 129 86.51 124.59 84.32 125.7 82.11 124.61"/>
+    <polyline class="cls-8" points="88.33 79.67 88.02 16.3 88.01 15.8"/>
+    <polygon class="cls-5" points="90.22 17.39 88 13 85.82 17.41 88.02 16.3 90.22 17.39"/>
+    <polyline class="cls-7" points="59 51 91.7 51 92.2 51"/>
+    <polygon class="cls-3" points="90.6 53.2 95 51 90.6 48.8 91.7 51 90.6 53.2"/>
+    <polyline class="cls-7" points="26.47 79.67 26.97 79.67 59.67 79.67"/>
+    <polygon class="cls-3" points="28.07 77.47 23.67 79.67 28.07 81.87 26.97 79.67 28.07 77.47"/>
+    <text class="cls-10" transform="translate(90.36 133.83)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(96.2 134.92)"><tspan x="0" y="0">z</tspan></text>
+    <text class="cls-10" transform="translate(91.55 20.5)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(97.39 21.59)"><tspan x="0" y="0">n</tspan></text>
+    <text class="cls-10" transform="translate(23.02 75.83)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(28.86 76.92)"><tspan x="0" y="0">f</tspan></text>
+    <text class="cls-10" transform="translate(112.05 55.5)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(117.89 56.59)"><tspan x="0" y="0">push</tspan></text>
+    <rect class="cls-1" x="206.33" y="7" width="156" height="131"/>
+    <rect class="cls-4" x="276" y="-3" width="16.67" height="166.67" transform="translate(72.6 286.41) rotate(-60)"/>
+    <rect class="cls-2" x="275" y="31.33" width="33.33" height="50" transform="translate(97.05 280.76) rotate(-60)"/>
+    <rect class="cls-9" x="275" y="31.33" width="33.33" height="50" transform="translate(97.05 280.76) rotate(-60)"/>
+    <polyline class="cls-8" points="291.65 119.2 291.65 118.7 291.33 55.33"/>
+    <polygon class="cls-5" points="289.44 117.61 291.67 122 293.84 117.59 291.65 118.7 289.44 117.61"/>
+    <polyline class="cls-8" points="278.83 68.2 305.03 22.2 305.28 21.77"/>
+    <polygon class="cls-5" points="306.4 24.25 306.67 19.33 302.58 22.07 305.03 22.2 306.4 24.25"/>
+    <polyline class="cls-7" points="233.84 41.73 234.27 41.98 262.59 58.33"/>
+    <polygon class="cls-3" points="236.32 40.63 231.41 40.33 234.12 44.44 234.27 41.98 236.32 40.63"/>
+    <text class="cls-10" transform="translate(297.7 126.83)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(303.54 127.92)"><tspan x="0" y="0">z</tspan></text>
+    <text class="cls-10" transform="translate(310.88 27.5)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(316.72 28.58)"><tspan x="0" y="0">n</tspan></text>
+    <text class="cls-10" transform="translate(230.02 33.17)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(235.86 34.25)"><tspan x="0" y="0">f</tspan></text>
+    <polyline class="cls-6" points="263.7 103.89 263.95 103.46 290.96 55.33"/>
+    <polygon class="cls-5" points="262.57 101.42 262.33 106.33 266.41 103.57 263.95 103.46 262.57 101.42"/>
+    <polyline class="cls-6" points="292.67 55.67 319.66 71.34 320.09 71.59"/>
+    <polygon class="cls-5" points="317.6 72.69 322.51 73 319.81 68.89 319.66 71.34 317.6 72.69"/>
+    <text class="cls-10" transform="translate(325.33 78.5)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(331.16 79.58)"><tspan x="0" y="0">z,x</tspan></text>
+    <text class="cls-10" transform="translate(249.93 114.17)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-11" transform="translate(255.77 115.25)"><tspan x="0" y="0">z,y</tspan></text>
+  </g>
+</svg>

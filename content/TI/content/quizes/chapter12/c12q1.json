@@ -1,0 +1,23 @@
+[
+     {
+         "question": "A piece of ice with a stone on top of it floats in a cup of water (see image below). When the ice has melted and the stone sunk to the bottom, what has happened to the water level?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Nothing",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Gone up",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Gone down",
+                 "correct": true,
+                 "feedback": "Correct. The ice makes no difference. When sunk, the pebble displaces an amount of water equal to its volume, when floating, equal to its weight - which is a larger volume of water."
+             }
+         ]
+     }
+]

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 168 75">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 8px;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9 {
+        font-family: MyriadPro-It, 'Myriad Pro';
+        font-size: 12px;
+        font-style: italic;
+      }
+
+      .cls-5 {
+        stroke-linecap: square;
+        stroke-linejoin: round;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #231f20;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        stroke: #92711f;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke-width: .61px;
+      }
+
+      .cls-4 {
+        fill: #bd912d;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="71" y="30" width="26" height="25"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0" y1="75" x2="1" y2="75" gradientTransform="translate(-1791 30) rotate(90) scale(25 -25)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#2e3192"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" width="168" height="75"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-4" width="20" height="75"/>
+  <text class="cls-9" transform="translate(79.88 24.33)"><tspan x="0" y="0">m</tspan></text>
+  <polyline class="cls-5" points="71 42.5 67.81 51 61.44 34 55.06 51 48.69 34 42.31 51 35.94 34 29.56 51 23.19 34 20 42.5"/>
+  <rect class="cls-4" x="148" width="20" height="75"/>
+  <polyline class="cls-5" points="97 42.5 100.19 34 106.56 51 112.94 34 119.31 51 125.69 34 132.06 51 138.44 34 144.81 51 148 42.5"/>
+  <g class="cls-1">
+    <rect class="cls-3" x="71" y="30" width="26" height="25"/>
+  </g>
+  <rect class="cls-7" x="71" y="30" width="26" height="25"/>
+  <rect class="cls-4" x="20" y="55" width="128" height="20"/>
+  <g class="cls-10">
+    <polyline class="cls-6" points="20 0 20 55 148 55 148 0"/>
+  </g>
+  <text class="cls-9" transform="translate(40.17 24.33)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-8" transform="translate(46.73 27.5)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-9" transform="translate(117.17 24.33)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-8" transform="translate(123.73 27.5)"><tspan x="0" y="0">2</tspan></text>
+</svg>

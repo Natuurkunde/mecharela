@@ -1,0 +1,23 @@
+[
+     {
+         "question": "We heat 3.0 mol of a diatomic ideal gas at (initial) pressure of $1.0$ atm from $T_0 = 330$ K to $T_1 = 540$ K. In which type of process is the entropy change the largest?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Constant volume",
+                 "correct": false,
+                 "feedback": "$\\Delta S = n C_V, ln(\\frac{T_2}{T_1}) = 31$J/K"
+             },
+             {
+                 "answer": "Constant pressure",
+                 "correct": true,
+                 "feedback": "Correct. $\\Delta S = n C_p, ln(\\frac{T_2}{T_1}) = 43$J/K"
+             },
+             {
+                 "answer": "Adiabatic",
+                 "correct": false,
+                 "feedback": "$\\Delta S = 0$"
+             }
+         ]
+     }
+]

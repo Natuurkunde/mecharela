@@ -1,0 +1,23 @@
+[
+     {
+         "question": "We put a rubber duck in water. What will be its equilibrium position?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Upright",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "On its side",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Upside-down",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

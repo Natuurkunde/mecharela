@@ -1,0 +1,23 @@
+[
+     {
+         "question": "What happens to a wave when it 'runs into a wall'? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "It gets damped out.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It returns the same way that it came (mirror reflection).",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It returns upside-down.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

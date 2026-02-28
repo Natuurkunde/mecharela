@@ -1,0 +1,23 @@
+[
+     {
+         "question": "You're compressing a spring with spring constant $k$ over a distance $x$. How much work do you need to do?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$W = kx$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$W = kx^2$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$W = \\frac{1}{2}kx^2$",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

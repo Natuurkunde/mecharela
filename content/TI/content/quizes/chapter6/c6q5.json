@@ -1,0 +1,23 @@
+[
+     {
+         "question": "As seen from the point of view of the photographer, what is the (instantaneous) speed of the point on the wheel that touches the ground? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "Zero",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "Same as the speed of the car",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "Same as the speed of the car, but in the backward direction",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

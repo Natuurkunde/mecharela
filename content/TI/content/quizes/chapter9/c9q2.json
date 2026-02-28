@@ -1,0 +1,28 @@
+[
+     {
+         "question": "What determines the frequency of the oscillation around a (local) minimum of the potential energy? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "The total energy of the system.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The value of the potential energy at the minimum",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The value of the derivative of the potential energy at the minimum",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "The value of the second derivative of the potential energy at the minimum",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

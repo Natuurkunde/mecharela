@@ -1,0 +1,23 @@
+[
+     {
+         "question": "The merry-go-round turns counterclockwise when seen from the top. The woman sitting on it releases a ball from her left hand, pushing it slightly inwards, but not towards the center. What will be the trajectory of the ball, as seen on camera? Answer shown in GIF below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "It will curve right and roll off the platform.",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It will move straight (and eventually fall off, but we can’t see that).",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "It will curve left and end up in the woman’s right hand.",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

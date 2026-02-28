@@ -1,0 +1,23 @@
+[
+     {
+         "question": "We'll see later that $F = −\\mathrm{d}U/\\mathrm{d}x$, with $F$ force, $U$ potential energy, and $x$ position. What is the dimension of $U$?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$[U] = MLT^{-3}$",
+                 "correct": false,
+                 "feedback": "We take derivative to space, not time."
+             },
+             {
+                 "answer": "$[U] = MT^{-2}$",
+                 "correct": false,
+                 "feedback": "This would be true if $U = \\mathrm{d}F/\\mathrm{d}x$."
+             },
+             {
+                 "answer": "$[U] = ML^2T^{-2}$",
+                 "correct": true,
+                 "feedback": "Correct."
+             }
+         ]
+     }
+]

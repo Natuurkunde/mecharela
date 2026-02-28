@@ -1,0 +1,33 @@
+[
+     {
+         "question": "Composite molecules have not only translational, but also rotational degrees of freedom. How much does each diatomic molecule add to the internal energy of a gas? See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$\\frac{3}{2}k_b T$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{5}{2}k_b T$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$3 k_B T$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$5 k_B T$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$6 k_B T$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

@@ -1,0 +1,28 @@
+[
+     {
+         "question": "What is the value of the adiabatic exponent $\\gamma = \\frac{C_p}{C_v}$ for a diatomic ideal gas (ideal gas implies zero potential energy, so no vibrations and the like)?",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$1$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{4}{3}$",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{7}{5}$",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$\\frac{5}{3}$",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]

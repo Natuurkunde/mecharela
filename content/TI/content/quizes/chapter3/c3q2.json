@@ -1,0 +1,28 @@
+[
+     {
+         "question": "Where is the center of mass of this stack of disks? (All same thickness $d = 2r$, top one radius $r$, middle one radius $2r$, bottom one radius $3r$). See image below.",
+         "type": "multiple_choice",
+         "answers": [
+             {
+                 "answer": "$\\frac{3}{2}r$ from the bottom",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{13}{7}r$ from the bottom",
+                 "correct": true,
+                 "feedback": "Correct."
+             },
+             {
+                 "answer": "$2r$ from the bottom",
+                 "correct": false,
+                 "feedback": ""
+             },
+             {
+                 "answer": "$\\frac{20}{7}r$ from the bottom",
+                 "correct": false,
+                 "feedback": ""
+             }
+         ]
+     }
+]
