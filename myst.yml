@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  # github:
+  github:  https://github.com/Natuurkunde/mecharela
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   references:
     FP: https://freekpols.github.io/Mechanica/
